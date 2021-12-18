@@ -27,3 +27,6 @@
 
 # Aviso e pra copiar com traço e a primeira Letra e "L" E NÃO I.
 # Depois e só cliclar em Ok e Executar programa ou melhor Dizendo Fazer Compilador do programa.
+
+
+## Meu https://linkedin.com/in/ihury-ferreira-10b3121b8
